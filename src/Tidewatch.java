@@ -1,3 +1,7 @@
+/**
+ * Displays basic security finding information and its current status.
+ */
+
 public class Tidewatch {
 	public static void main(String[] args) {
 		System.out.println("Tidewatch v0.1");
