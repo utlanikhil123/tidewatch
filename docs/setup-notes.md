@@ -12,7 +12,7 @@
 
 - Machine name: tidewatch-dev
 - Ubuntu version: 26.04
-- Java version: Coretto 21 and Coretto 25
+- Java version: Coretto 21
 
 ### Terminal Aliases
 
