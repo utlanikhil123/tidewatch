@@ -8,11 +8,6 @@
 - Java: Amazon Corretto JDK 21 and JDK 25
 - JAVA_HOME: Configured to use Java 21
 
-## Cloud desktop
-
-- Machine name: tidewatch-dev
-- Ubuntu version: 26.04
-- Java version: Coretto 21
 
 ### Terminal Aliases
 
